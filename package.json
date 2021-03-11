@@ -1,6 +1,6 @@
 {
   "name": "@eth-optimism/provider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Web3 provider for Optimism",
   "main": "build/index.js",
   "types": "build/index.d.ts",
