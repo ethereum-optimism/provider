@@ -1,0 +1,45 @@
+# Dependencies
+/**/node_modules/
+
+# Build
+/**/build/
+/**/artifacts/
+/**/cache/
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+*.iml
+
+# misc
+*.swp
+.DS_Store
+lerna-debug.log
+npm-debug.log
+/**/npm-debug.log
+/packages/**/LICENSE.txt
+*.test.tmp
+/**/package-lock.json
+
+/**/*.log
+
+/**/*.env
+/**/.env
+
+*.bytecode
+
+# security
+*.pem
+
+# docs
+/packages/docs/src/core/_build/
+/packages/docs/src/core/pyvenv.cfg
+/packages/docs/src/core/lib/
+/packages/docs/src/core/_build/
+/packages/docs/src/core/bin/
+/packages/docs/src/core/env/
+
+# Local Dockerfiles
+*.local.yml
+*.mine.yml
